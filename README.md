@@ -21,22 +21,29 @@ Backend Software Engineer with **4+ years of experience** building secure, high-
 - **Databases:** PostgreSQL, MySQL, SQLite
 - **Security:** JWT, OAuth 2.0, BCrypt Encryption, Role-Based Access Control (RBAC)
 - **Architecture & Practices:** RESTful API Design, Microservices, Clean Architecture, MVVM, CI/CD (Azure DevOps)
-- **Cloud & Tools:** Docker, Git/GitHub, Linux, Jira, ModelMapper
+- **Cloud & Tools:** Docker, Git/GitHub, Linux, Jira
 
 ---
 
 ## 💼 Work Experience Summary
 
-- **Software Engineer (Backend)** @ *Faverli* (Stockholm, Sweden) | *Feb 2026 – Jul 2026*
-  - Designed core candidate matching & recruitment workflows using Java & Spring Boot.
-  - Optimized database query execution layers and managed Azure DevOps CI/CD pipelines.
-- **Fullstack Software Developer (Intern)** @ *Portabel Health* (Stockholm, Sweden) | *Jan 2025 – Jul 2025*
-  - Optimized API response times and database queries by **30%** for Swedish healthcare staffing solutions.
-- **Software Engineer** @ *Samsung R&D Institute* (Dhaka, Bangladesh) | *May 2022 – Aug 2024*
-  - Developed Camera Sharing feature for **Samsung Galaxy S24** series; enhanced Samsung Account security using **OAuth 2.0 & JWT**.
-- **Software Engineer** @ *BRAC IT Services Limited* (Dhaka, Bangladesh) | *May 2021 – May 2022*
-  - Developed microfinance and HR/payroll backend systems using Java, Spring Boot, and Spring Security.
+* **Software Engineer (Backend)** @ *Faverli* (Stockholm, Sweden) | *Feb 2026 – Jul 2026*
+  * Architected core recruitment features and candidate matching workflows with Java & Spring Boot, resolving end-to-end data consistency issues across frontend, backend, and PostgreSQL layers.
+  * Optimized database access layers and managed automated CI/CD deployment pipelines using Azure DevOps and Linux tools.
 
+* **Fullstack Software Developer (Intern)** @ *Portabel Health* (Stockholm, Sweden) | *Jan 2025 – Jul 2025*
+  * Engineered Java/Spring Boot backend services for Swedish healthcare staffing, boosting API performance and database queries by 30% while reducing system bugs by 30%.
+  * Managed Azure DevOps deployment pipelines, delivered cross-functional features, and supported frontend integrations via Angular CLI.
+
+* **Software Engineer** @ *Samsung R&D Institute* (Dhaka, Bangladesh) | *May 2022 – Aug 2024*
+  * Led end-to-end development of the Camera Sharing project in Java from POC to commercialization on Galaxy S24, engineering C# desktop clients and C++ audio/video drivers.
+  * Enhanced Samsung Account application security by implementing OAuth 2.0 & JWT authentication mechanisms using Java and Kotlin.
+  * Engineered low-level Win32 API and MFC features for Samsung DeX to resolve complex OS-level performance bugs.
+  * Mentored junior developers, facilitated code reviews, and earned 2x Excellence Awards alongside the Disclosure of Innovation (DOI) Award.
+
+* **Software Engineer** @ *BRAC IT Services Limited* (Dhaka, Bangladesh) | *May 2021 – May 2022*
+  * Architected enterprise Java & Spring Boot RESTful microservices for microfinance and HR/payroll systems using Spring Security.
+  * Designed, scaled, and optimized high-throughput database layers across MySQL and PostgreSQL using Spring Data JPA and JDBC.
 ---
 
 ## 🚀 Featured Projects
@@ -63,6 +70,7 @@ Backend Software Engineer with **4+ years of experience** building secure, high-
 ## 📫 Connect with Me
 
 - 📍 **Location:** Stockholm, Sweden
-- 💼 **LinkedIn:** [linkedin.com/in/maruf-rahad](https://linkedin.com/in/maruf-rahad) <!-- Update with your actual LinkedIn link -->
+- 💼 **LinkedIn:** [linkedin.com/in/maruf-rahad](https://www.linkedin.com/in/marufahmedrahad/)
+- 🌐 **Portfolio:** [marufrahad.dev](https://maruf-rahad-portfolio.netlify.app/)
 - 📧 **Email:** marufahmedrahad@gmail.com
 - 🐙 **GitHub:** [github.com/maruf-rahad](https://github.com/maruf-rahad)
