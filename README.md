@@ -48,11 +48,11 @@ Backend Software Engineer with **4+ years of experience** building secure, high-
 
 ## 🚀 Featured Projects
 
-### 🛒 [Enterprise E-Commerce Backend API](https://github.com/maruf-rahad/demomaven)
+### 🛒 [Enterprise E-Commerce Backend API](https://github.com/maruf-rahad/Enterprise-E-Commerce-Backend-API)
 > Production-ready Spring Boot 3 REST API featuring JWT authentication, role-based access control (`ROLE_CUSTOMER`, `ROLE_ADMIN`), interactive cart management, product review system, and order status lifecycle workflows.
 - **Tech Stack:** Java 17, Spring Boot, Spring Security, PostgreSQL, Hibernate, ModelMapper.
 
-### 💍 [Matrimony & Matchmaking Platform API](https://github.com/maruf-rahad/demomatrimony)
+### 💍 [Matrimony & Matchmaking Platform API](https://github.com/maruf-rahad/Matrimony-Matchmaking-Platform-API)
 > Enterprise matchmaking backend incorporating weighted compatibility scoring algorithms, multi-criteria dynamic search with pagination, connection interest workflows, and real-time WebSocket messaging.
 - **Tech Stack:** Java 17, Spring Boot, WebSockets (STOMP/SockJS), PostgreSQL, Spring Data JPA.
 
